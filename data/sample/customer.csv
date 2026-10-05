@@ -1,0 +1,16 @@
+id,name,age,email,city,salary
+1,Sreya,21,abc@gmail.com,Kochi,20000
+2,Sam,22,cda@gmail.com,Kolkata,10000
+3,Shein,34,abc@gmail.com,Delhi,60000
+4,Soniya,21,ikr@gmail.com,Mumbai,110000
+5,Sneha,26,cjp@gmail.com,,90000
+6,Shebang,,bjp@gmail.com,Bhubaneswar,50000
+7,Shivani,22,tmsl@gmail.com,Indore,800sdcdfs00
+8,Suhil,23,snu@gmail.com,Dehradun,30000
+9,Shamsheer,29,luv@gmail.com,Kolkata,40000
+10,Shameer,31,omg@gmail.com,Goa,120000
+11,Shabreez,26,sus@gmail.com,,80000
+12,Shabreez,26,sus@gmail.com,Hyderabad,80000
+13,Sambriddhi,25,sus@gmail.com,Bangaluru,150000
+14,Sambriddhi,25,sus@gmail.com,Bangaluru,150000@$%
+15,Sambriddhi,,sus@gmail.com,Bangaluru,150000
